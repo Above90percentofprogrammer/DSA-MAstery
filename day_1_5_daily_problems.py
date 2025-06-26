@@ -1,14 +1,3 @@
-"""✅ Contains Duplicate
-
-✅ Valid Anagram
-
-✅ Two Sum
-
-✅ Intersection of Two Arrays
-
-✅ Missing Number
-"""
-
 #to find duplicate in strings and list 
 """list1 = []
 str1 = ""
