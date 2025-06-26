@@ -1,0 +1,31 @@
+ What I Did Today:
+Small Programs:..............
+
+Built a character classifier (counting digits, letters, special characters).
+
+Created a password analyzer evaluating 5 criteria: lowercase, uppercase, digit, special char, length.
+
+DSA Problems Solved: ...............
+
+Prime Number Checker – Wrote two versions (including one using efficient logic).
+
+Duplicate Removal from List – Tracked indices and removed elements correctly using reverse iteration.
+
+Anagram Checker – Compared sorted strings.
+
+Palindrome Sentence Checker – Cleaned punctuation/spaces and compared with reversed string.
+
+First Non-Repeating Character – Used count() for checking character frequency.
+
+🧠 Key Learnings:
+str.isalpha(), str.isdigit(), and str.lower() mechanics.
+
+Difference between in-place methods (e.g. list.sort()) vs returning functions (sorted()).
+
+Index shifting issues while deleting list elements and how to handle them.
+
+Efficient range usage in loops (e.g. range(2, int(num ** 0.5) + 1) for prime checking).
+
+Logic structuring using if-elif-else blocks smartly.
+
+Practiced clean code formatting and clarity in condition checks.
